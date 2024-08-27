@@ -1,0 +1,5 @@
+# Simulated-Network-Capstone-Project
+
+In this project, we are tasked with building a small business environment for a client at our MSP (Managed Service Provider). Our lab group, led by our senior engineer instructor, will be working through implementing various components requested by the client. The lab workspace consists of two essential objects: the WAN-CLOUD and WAN-SWITCH, which are crucial to our setup and must not be modified.
+
+Our client has requested a comprehensive setup, including a secure network, an internal Windows Domain, an internal Microsoft IIS web server, an internal Windows 10 workstation, a public web server, and a public FTP server. This project marks our first major undertaking, and we are following the broad instructions provided by our senior engineer. However, in case of challenges or uncertainties, we are encouraged to troubleshoot independently first and then contact the senior engineer for assistance. When seeking help, it's essential to provide comprehensive information upfront, including what we're trying to achieve, the guide we're following, the specific problem encountered, and the troubleshooting steps attempted.
